@@ -10,5 +10,12 @@ public interface UserService {
 	 * 这里是张三添加的方法
 	 */
 	public void dd();
+	
+	
+	/**
+	 * 李四 添加的方法
+	 * 
+	 */
+	public void  xxx();
 
 }
