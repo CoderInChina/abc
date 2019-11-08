@@ -17,5 +17,11 @@ public interface UserService {
 	 * 
 	 */
 	public void  xxx();
+	
+	
+	/**
+	 * 张三又添加了一个方法
+	 */
+	public void helloworld();
 
 }
